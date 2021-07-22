@@ -13,6 +13,12 @@ Teorema de Thévenin
 
 2. MARCO TEÓRICO
 
+
+![test1](https://user-images.githubusercontent.com/84453557/126717033-c62c76b9-a957-4f10-858f-42ab2f5f9fc1.png)
+
+
+
+
 3. DIAGRAMAS
 
 4. LISTA DE COMPONENTES
