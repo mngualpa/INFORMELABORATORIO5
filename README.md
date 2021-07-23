@@ -26,6 +26,13 @@
 
 3. DIAGRAMAS
 
+Diagrama general (Circuito)
+Circuito en tinkercad (medición de voltaje y corriente)
+Circuito en tinkercad (medición de voltaje de Thévenin)
+Circuito en tinkercad (medición resistecia equivalente de Thévenin)
+Circuito equivalente de Thévenin (medición voltaje y corriente)
+
+
 4. LISTA DE COMPONENTES
 
 
@@ -42,6 +49,15 @@
 | 1 | Protoboard |
 
 5. EXPLICACIÓN
+vinueza 
+
+<img src="Img/info1.jpg">
+
+<img src="Img/info2.jpg">
+
+<img src="Img/info3.jpg">
+
+<img src="Img/info4.jpg">
 
 <img src="Img/tablas.jpg">
 
