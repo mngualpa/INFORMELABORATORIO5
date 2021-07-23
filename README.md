@@ -27,10 +27,24 @@
 3. DIAGRAMAS
 
 Diagrama general (Circuito)
+
+<img src="Img/circuito1.jpg">
+
 Circuito en tinkercad (medición de voltaje y corriente)
+
+<img src="Img/circuito2.jpg">
+
 Circuito en tinkercad (medición de voltaje de Thévenin)
+
+<img src="Img/circuito3.jpg">
+
 Circuito en tinkercad (medición resistecia equivalente de Thévenin)
+
+<img src="Img/circuito4.jpg">
+
 Circuito equivalente de Thévenin (medición voltaje y corriente)
+
+<img src="Img/circuito5.jpg">
 
 
 4. LISTA DE COMPONENTES
