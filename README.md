@@ -17,6 +17,7 @@
 
 2. MARCO TEÓRICO
 
+![lab51](https://user-images.githubusercontent.com/84453557/126733831-68397629-134a-406c-8d1d-f4dbd768bd10.png)
 
 
 3. DIAGRAMAS
@@ -59,7 +60,19 @@ Circuito equivalente de Thévenin (medición voltaje y corriente)
 
 5. EXPLICACIÓN
 
-vinueza 
+Calcule el voltaje y corriente en R5
+
+![lab52](https://user-images.githubusercontent.com/84453557/126733846-4d285b08-22b7-4b1d-a076-729a679adfe8.png)
+
+Resuelvo el sistema de ecuaciones
+
+![lab53](https://user-images.githubusercontent.com/84453557/126733851-06827d98-6fa1-4c56-b108-7368bd8232ae.png)
+
+El voltaje y corriente que pasan por R5
+
+![lab54](https://user-images.githubusercontent.com/84453557/126733858-79b090aa-ef49-4752-95f0-68fc88d2a0c0.png)
+
+
 
 <img src="Img/info1.jpg">
 
