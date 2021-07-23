@@ -72,7 +72,10 @@ vinueza
 <img src="Img/tablas.jpg">
 
 <img src="Img/errores.jpg">
-
+ 
+ 5.1 VIDEO
+ 
+ 
 
 6. CONCLUSIONES
 
