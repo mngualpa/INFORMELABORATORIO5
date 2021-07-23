@@ -17,10 +17,10 @@
 
 2. MARCO TEÓRICO
 
-![lab51](https://user-images.githubusercontent.com/84453557/126733831-68397629-134a-406c-8d1d-f4dbd768bd10.png)
 
 
-3. DIAGRAMAS
+3. DIAGRAMAS![lab50](https://user-images.githubusercontent.com/84453557/126733962-4f0b7fd3-46e9-4885-9aa3-e18ab444a1cb.png)
+
 
 Diagrama general (Circuito)
 
@@ -61,6 +61,9 @@ Circuito equivalente de Thévenin (medición voltaje y corriente)
 5. EXPLICACIÓN
 
 Calcule el voltaje y corriente en R5
+
+![lab51](https://user-images.githubusercontent.com/84453557/126733929-ce556dfb-4c25-47cb-ad19-ccaa1c2bb723.png)
+
 
 ![lab52](https://user-images.githubusercontent.com/84453557/126733846-4d285b08-22b7-4b1d-a076-729a679adfe8.png)
 
