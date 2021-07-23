@@ -43,6 +43,11 @@
 
 5. EXPLICACIÓN
 
+<img src="Img/tablas.jpg">
+
+<img src="Img/errores.jpg">
+
+
 6. CONCLUSIONES
 
 • El Teorema de Thévenin tiene como objetivo simplificar los cálculos de un sistema eléctrico complejo por un circuito eléctrico equivalente mucho mas simple, constituido por una fuente de tensión y una resistencia equivalente.
