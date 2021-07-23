@@ -63,6 +63,7 @@ Circuito equivalente de Thévenin (medición voltaje y corriente)
 | 1 | Protoboard |
 
 5. EXPLICACIÓN
+
 vinueza 
 
 <img src="Img/info1.jpg">
