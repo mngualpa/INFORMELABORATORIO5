@@ -93,6 +93,8 @@ El voltaje y corriente que pasan por R5
  
  5.1 VIDEO
  
+ https://youtu.be/duVA0Vx2FHE
+ 
  
 
 6. CONCLUSIONES
