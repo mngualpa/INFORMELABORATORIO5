@@ -1,5 +1,9 @@
 # INFORMELABORATORIO5
-Teorema de Thévenin
+
+## Teorema de Thévenin
+
+
+<img src="Img/LOGO.png">
 
 1. OBJETIVOS
 
@@ -24,8 +28,24 @@ Teorema de Thévenin
 
 4. LISTA DE COMPONENTES
 
+
+| Cantidad  | Elemento  | 
+| --------- | --------- | 
+| 2 | Fuente de Voltaje de C.D. |
+| 2 | Multímetros Digitales |
+| 1 | Resistor de 560 Ω |
+| 1 | Resistor de 4.7 kΩ |
+| 1 | Resistor de 330 Ω |
+| 1 | Resistor de 100 Ω |
+| 1 | Resistor de 1 kΩ |
+| 1 | Potenciómetro de precisión de 1 kΩ |
+| 1 | Protoboard |
+
 5. EXPLICACIÓN
 
+<img src="Img/tablas.jpg">
+
+<img src="Img/errores.jpg">
 6. CONCLUSIONES
 
 • El Teorema de Thévenin tiene como objetivo simplificar los cálculos de un sistema eléctrico complejo por un circuito eléctrico equivalente mucho mas simple, constituido por una fuente de tensión y una resistencia equivalente.
