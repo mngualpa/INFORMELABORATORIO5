@@ -19,8 +19,10 @@
 
 
 
-3. DIAGRAMAS![lab50](https://user-images.githubusercontent.com/84453557/126733962-4f0b7fd3-46e9-4885-9aa3-e18ab444a1cb.png)
+![lab50](https://user-images.githubusercontent.com/84453557/126733962-4f0b7fd3-46e9-4885-9aa3-e18ab444a1cb.png)
 
+
+3. DIAGRAMAS
 
 Diagrama general (Circuito)
 
